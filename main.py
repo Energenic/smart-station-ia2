@@ -47,8 +47,8 @@ def obtenir_lien_direct(url):
 
 # --- UTILISATION ---
 
-URL_CUVES = obtenir_lien_direct("https://drive.google.com/file/d/1BxdKjJB7Difw4vfe4OKylMV_b5PAGUgL/view?usp=sharing")
-URL_POMPES = obtenir_lien_direct("https://drive.google.com/file/d/1H19rgLxGU7wL5VRhDNg2h9_WMf8rFk9s/view?usp=sharing")
+URL_CUVES = obtenir_lien_direct("https://energenic.sharepoint.com/:x:/g/IQAmSmmAmijFS4UyM3FNpCvbAefpRb8WeRcwMaKNOLIXNHQ?e=T9CUbJ")
+URL_POMPES = obtenir_lien_direct("https://energenic.sharepoint.com/:x:/g/IQAI_nCblmrdQ6pEC2XrRn1lAd2q_vDxuMqosdVPAZwXTko?e=2j7Zct")
 
 LIAISONS = {1: [1, 3], 2: [2, 4]}
 
